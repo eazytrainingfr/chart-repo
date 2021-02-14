@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pozos-api:
+  - apiVersion: v2
+    appVersion: "0.1"
+    created: "2021-02-14T02:33:01.701432711+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 77f393a760bd99ffe1c8d476e4f098544412225394e94f75124b61f80571c367
+    name: pozos-api
+    type: application
+    urls:
+    - pozos-api-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-14T02:33:01.70067458+01:00"
